@@ -1,0 +1,16 @@
+TITLE_1: SEL0618
+TITLE_2: Projeto de Circuito Integrado I
+SUBTITLE_1: Disciplina de graduação
+SUBTITLE_2: Material de aula, notebooks e referências.
+
+ABOUT: |
+  Este site organiza as aulas, exercícios e material suplementar da disciplina.
+
+REFERENCIAS: |
+  <ul>
+    <li>Livro AA …</li>
+    <li>Artigo BB …</li>
+  </ul>
+
+GITHUB_LINK: https://github.com/Academic-Codex/SEL0618-Projeto-Circuito-Integrado-I
+HERO_FILE: projeto-circuito-integrado-i.png
